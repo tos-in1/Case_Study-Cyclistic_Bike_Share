@@ -30,4 +30,4 @@ As a data analyst, my task was to analyze how casual riders and annual members d
 - Send personalized email nudges to long-ride casual users.
 
 ## 📊 View Dashboard
-[Click here to view Tableau dashboard](https://public.tableau.com/app/profile/YOUR_USERNAME)
+[Click here to view Tableau dashboard]((https://public.tableau.com/views/CyclisticBikeShareDashboard_17471525247210/Dashboard1-When?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
