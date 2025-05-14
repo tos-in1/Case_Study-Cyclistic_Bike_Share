@@ -20,14 +20,13 @@ As a data analyst, my task was to analyze how casual riders and annual members d
 - `Data/` – (Optional) Includes a sample of the dataset used.
 
 ## 🔍 Key Insights
-- Casual riders take longer rides mostly on weekends.
-- Members ride more during weekdays.
-- Different start/end stations are preferred by different rider types.
+- Annual members demonstrate consistent, year-round usage of the bike-sharing service. Their rides are concentrated during typical commuting hours, with popular routes connecting residential areas to business districts and transportation hubs. They primarily use the service for efficient, shorter trips, as evidenced by their shorter average ride durations. Their behavior indicates a reliance on Cyclistic for daily transportation needs.
+- Casual riders, in contrast, exhibit a more seasonal and leisure-oriented usage pattern. Their ridership peaks during the summer months and on weekends, with trips often originating from stations near recreational areas and tourist attractions. Casual riders take longer rides, suggesting they use the service for exploration, recreation, and longer leisure trips
 
 ## 🎯 Recommendations
-- Target casual weekend riders with membership campaigns.
-- Create promotions tied to tourist hotspots.
-- Send personalized email nudges to long-ride casual users.
+- Offer a discounted or free trial annual membership, specifically targeted to casual riders during their peak usage times. This will allow casual riders to experience the benefits of membership during their preferred riding times, directly incentivizing them to convert to a full annual membership.
+- Develop a marketing campaign that highlights the value of an annual membership for exploring the city. This campaign could feature curated top 10 routes, user-generated content showcasing unique city experiences, and testimonials from annual members who use Cyclistic for both commuting and leisure. This campaign would reframe the annual membership as a key to unlocking ongoing exploration and adventure, appealing directly to the casual rider's desire for discovery and making the membership relevant to their lifestyle.
+- Use data to personalize incentives for casual riders to convert to annual memberships. For example, offer discounts on longer rides for a limited time, or provide a one-time credit towards a membership after a certain number of leisure rides. By tailoring the incentives to match their riding behavior, Cyclistic can make the value proposition of annual membership more compelling and relevant to individual casual riders.
 
 ## 📊 View Dashboard
 [Click here to view Tableau dashboard](https://public.tableau.com/views/CyclisticBikeShareDashboard_17471525247210/Dashboard1-When?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
