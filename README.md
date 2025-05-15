@@ -28,5 +28,9 @@ As a data analyst, my task was to analyze how casual riders and annual members d
 - Develop a marketing campaign that highlights the value of an annual membership for exploring the city. This campaign could feature curated top 10 routes, user-generated content showcasing unique city experiences, and testimonials from annual members who use Cyclistic for both commuting and leisure. This campaign would reframe the annual membership as a key to unlocking ongoing exploration and adventure, appealing directly to the casual rider's desire for discovery and making the membership relevant to their lifestyle.
 - Use data to personalize incentives for casual riders to convert to annual memberships. For example, offer discounts on longer rides for a limited time, or provide a one-time credit towards a membership after a certain number of leisure rides. By tailoring the incentives to match their riding behavior, Cyclistic can make the value proposition of annual membership more compelling and relevant to individual casual riders.
 
+## 📊 View Presentation Slide
+[Click here to view Presentation slide](https://www.canva.com/design/DAGndjK9rVo/dqVnQuEHYucn_N_ht108oA/view?utm_content=DAGndjK9rVo&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
+
 ## 📊 View Dashboard
 [Click here to view Tableau dashboard](https://public.tableau.com/views/CyclisticBikeShareDashboard_17471525247210/Dashboard1-When?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
