@@ -14,10 +14,9 @@ As a data analyst, my task was to analyze how casual riders and annual members d
 - SQL (Google BigQuery)
 - Tableau Public
 
-## 📁 Folder Structure
+## 📁 Files
 - `SQL/` – Contains all SQL queries used for cleaning and analysis.
-- `Tableau/` – Contains dashboard screenshots and the Tableau Public link.
-- `Data/` – (Optional) Includes a sample of the dataset used.
+- `Visualization` – Contains all Tableau visualization images. Scroll down the page for presentation and dashboard links
 
 ## 🔍 Key Insights
 - Annual members demonstrate consistent, year-round usage of the bike-sharing service. Their rides are concentrated during typical commuting hours, with popular routes connecting residential areas to business districts and transportation hubs. They primarily use the service for efficient, shorter trips, as evidenced by their shorter average ride durations. Their behavior indicates a reliance on Cyclistic for daily transportation needs.
