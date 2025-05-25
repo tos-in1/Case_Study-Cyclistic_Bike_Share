@@ -30,6 +30,9 @@ As a data analyst, my task was to analyze how casual riders and annual members d
   
 - Use data to personalize incentives for casual riders to convert to annual memberships. For example, offer discounts on longer rides for a limited time, or provide a one-time credit towards a membership after a certain number of leisure rides. By tailoring the incentives to match their riding behavior, Cyclistic can make the value proposition of annual membership more compelling and relevant to individual casual riders.
 
+## 📝 View SQL Codes 
+[Click here to view Medium Report]((https://github.com/tos-in1/Case_Study-Cyclistic_Bike_Share/tree/master/SQL))
+
 ## 📝 View the entire process 
 [Click here to view Medium Report](https://medium.com/@tosin.folorunso01/unlocking-membership-growth-converting-casual-riders-into-annual-members-1e305e2db007)
 
