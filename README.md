@@ -30,6 +30,13 @@ As a data analyst, my task was to analyze and understand the behavioral differen
 ![Image](https://github.com/user-attachments/assets/45da2264-74e8-49cd-ac73-9a779fbd6e5a)
 
 **2. What time of day, days of the week, or season of the year are most popular for each rider group?**
+
+![Image](https://github.com/user-attachments/assets/37c96d75-1c16-47aa-aa7e-c6c0bad5793e)
+
+![Image](https://github.com/user-attachments/assets/8453a2be-9e3b-4f5f-823b-3b5bbd5ff855)
+
+![Image](https://github.com/user-attachments/assets/ac5e0a89-c615-4d2e-b420-6a24b3ccfb2f)
+
    - Casual Riders Prefer to ride during weekends and Summer Months – Their usage peaks around 4–5 PM, especially on weekends, and surges dramatically in the summer (10.4x more than in winter), highlighting a strong leisure and seasonal pattern.
      
    - Annual Members Ride During Commute Hours and Weekdays – They show clear peaks around 8 AM and 4–6 PM on weekdays, with consistent usage throughout the year (only 3.4x increase from winter to summer), indicating commuting and routine-based behavior.
