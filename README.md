@@ -52,13 +52,13 @@ As a data analyst, my task was to analyze and understand the behavioral differen
    - Annual Members Commute Between Work Hubs and Transit Points – Their most-used routes connect business districts, residential zones, and universities, suggesting a practical and routine-based commuting behavior.
 
 ## 🎯 Recommendations
-1. Target Casual Riders with Timed Membership Offers
+**1. Target Casual Riders with Timed Membership Offers**
 - Launch limited-time free or discounted trial memberships during the weekends and summer months. This leverages casual riders seasonal and leisure-driven behavior to increase exposure to the membership benefits and drive conversion.
 
-2. Reframe Annual Membership Around Exploration and Value
+**2. Reframe Annual Membership Around Exploration and Value**
 - Cyclistic marketing team should create a marketing campaign that showcases top recreational destinations, and flexible usage benefits of annual membership. During the campaign, it would be best to make use of visuals and testimonials to position the membership plan as a gateway to continuous discovery, not just commuting.
 
-3. Use Behavioral Data to Personalize Incentives
+**3. Use Behavioral Data to Personalize Incentives**
 - Cyclistic should offer custom incentives like discounts after a set number of long-duration leisure rides or bonus credits—based on casual riders’ actual behavior. All of these tailored rewards will increase perceived relevance and nudge conversion to annual plans.
 
 ## 🧑‍💻 View SQL Codes 
