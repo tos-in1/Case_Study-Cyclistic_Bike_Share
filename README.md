@@ -37,18 +37,19 @@ As a data analyst, my task was to analyze and understand the behavioral differen
 
 ![Image](https://github.com/user-attachments/assets/ac5e0a89-c615-4d2e-b420-6a24b3ccfb2f)
 
-   - Casual Riders Prefer to ride during weekends and Summer Months – Their usage peaks around 4–5 PM, especially on weekends, and surges dramatically in the summer (10.4x more than in winter), highlighting a strong leisure and seasonal pattern.
+   - Casual riders prefer to ride during weekends and summer Months – Their usage peaks around 4–5 PM, especially on weekends, and surges dramatically in the summer (10.4x more than in winter), highlighting a strong leisure and seasonal pattern.
      
-   - Annual Members Ride During Commute Hours and Weekdays – They show clear peaks around 8 AM and 4–6 PM on weekdays, with consistent usage throughout the year (only 3.4x increase from winter to summer), indicating commuting and routine-based behavior.
-
-     ![Average Ride Duration](Individual vizz/AVG_ride_duration.png)
+   - Annual members on the other hand ride during commute hours and weekdays – They show clear peaks around 8 AM and 4–6 PM on weekdays, with consistent usage throughout the year (only 3.4x increase from winter to summer), indicating commuting and routine-based behavior.
 
 **3. What is the prefered route, start and end stations between both rider group and what does this imply?**
+
+![Image](https://github.com/user-attachments/assets/7b2ef975-4f34-474f-9737-d417b1919d32)
+
+![Image](https://github.com/user-attachments/assets/f3d9eaff-74e8-4951-a61b-b19fd570de2e)
+
    - Casual Riders Start and End at Tourist Hotspots – Their top routes and stations cluster around attractions like Millennium Park and the Shedd Aquarium, highlighting a preference for using cyclistic bikes for sightseeing and recreation.
      
    - Annual Members Commute Between Work Hubs and Transit Points – Their most-used routes connect business districts, residential zones, and universities, suggesting a practical and routine-based commuting behavior.
-
-![Average Ride Duration](avg_ride_duration.png)
 
 ## 🎯 Recommendations
 1. Target Casual Riders with Timed Membership Offers
