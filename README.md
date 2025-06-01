@@ -20,18 +20,17 @@ As a data analyst, my task was to analyze and understand the behavioral differen
 - Tableau Public
 - Canva / PowerPoint (Presentation Slide)
 
-
-
-
-
-
-
-
 ## 📁 Files
 - `SQL/` – Contains all SQL queries used for cleaning and analysis.
-- `Visualization` – Contains all Tableau visualization images. Scroll down the page for presentation and dashboard links
 
 ## 🔍 Key Insights
+- 1: Casual Riders Take Longer Trips
+Casual riders average 19.75 mins per ride, significantly longer than annual members at 11.72 mins. This suggests casual users ride mostly for leisure, while members ride for short, practical trips.
+
+![Average Ride Duration](avg_ride_duration.png)
+
+
+
 - Annual members demonstrate consistent, year-round usage of the bike-sharing service. Their rides are concentrated during typical commuting hours, with popular routes connecting residential areas to business districts and transportation hubs. They primarily use the service for efficient, shorter trips, as evidenced by their shorter average ride durations. Their behavior indicates a reliance on Cyclistic for daily transportation needs.
   
 - Casual riders, in contrast, exhibit a more seasonal and leisure-oriented usage pattern. Their ridership peaks during the summer months and on weekends, with trips often originating from stations near recreational areas and tourist attractions. Casual riders take longer rides, suggesting they use the service for exploration, recreation, and longer leisure trips
