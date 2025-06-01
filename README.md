@@ -47,7 +47,7 @@ As a data analyst, my task was to analyze and understand the behavioral differen
 
 ![Image](https://github.com/user-attachments/assets/f3d9eaff-74e8-4951-a61b-b19fd570de2e)
 
-   - Casual Riders Start and End at Tourist Hotspots – Their top routes and stations cluster around attractions like Millennium Park and the Shedd Aquarium, highlighting a preference for using cyclistic bikes for sightseeing and recreation.
+   - Casual Riders Start and End at Tourist Hotspots – Their top routes and stations cluster around attractions like DuSable Lake Shore, Millennium Park, Shedd Aquarium and Sreeter Dr & Grand Ave, highlighting a preference for using cyclistic bikes for sightseeing and recreation.
      
    - Annual Members Commute Between Work Hubs and Transit Points – Their most-used routes connect business districts, residential zones, and universities, suggesting a practical and routine-based commuting behavior.
 
