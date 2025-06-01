@@ -8,7 +8,7 @@ Cyclistic is a bike-share company in Chicago with over 6 million users across 69
 Cyclistic aims to increase its overall revenue, and one of the most effective strategies is converting casual riders into annual members. However, the company currently lacks behavioral insights into why casual users are not making the switch — thereby creating a gap in its ability to develop targeted and effective conversion strategies.
 
 ## 🎯 Objective
-As a data analyst, my task was to analyze and understand the behavioral differences between casual riders and annual memnbers so as to inform marketing strategies and drive membership growth. By understanding the behavioral differences between these two rider groups, the marketing team can design targeted strategies to convert casual riders into loyal, paying annual members.
+As a data analyst, my task was to analyze and understand the behavioral differences between casual riders and annual members so as to inform marketing strategies and drive membership growth. By understanding the behavioral differences between these two rider groups, the marketing team can design targeted strategies to convert casual riders into loyal, paying annual members.
 
 ## 🔍 Key Business Questions
 1. How do ride durations differ between casual riders and annual members?
