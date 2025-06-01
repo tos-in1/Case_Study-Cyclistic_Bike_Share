@@ -24,35 +24,43 @@ As a data analyst, my task was to analyze and understand the behavioral differen
 - `SQL/` – Contains all SQL queries used for cleaning and analysis.
 
 ## 🔍 Key Insights
-1. How do ride durations differ between casual riders and annual members?
-- Casual Riders Take Longer Trips compared to annual members - averaging 19.75 mins per ride, significantly longer than annual members at 11.72 mins. This suggests casual users ride mostly for leisure, while members ride for short, practical trips.
+**1. How do ride durations differ between casual riders and annual members?**
+   - Casual Riders Take Longer Trips compared to annual members - averaging 19.75 mins per ride, significantly longer than annual members at 11.72 mins. This suggests casual users ride mostly for leisure, while members ride for short, practical trips.
 
 ![Average Ride Duration](avg_ride_duration.png)
 
-- 2. 
+**2. What time of day, days of the week, or season of the year are most popular for each rider group?**
+   - Casual Riders Prefer to ride during weekends and Summer Months – Their usage peaks around 4–5 PM, especially on weekends, and surges dramatically in the summer (10.4x more than in winter), highlighting a strong leisure and seasonal pattern.
+     
+   - Annual Members Ride During Commute Hours and Weekdays – They show clear peaks around 8 AM and 4–6 PM on weekdays, with consistent usage throughout the year (only 3.4x increase from winter to summer), indicating commuting and routine-based behavior.
+
+     ![Average Ride Duration](avg_ride_duration.png)
+
+**3. What is the prefered route, start and end stations between both rider group and what does this imply?**
+   - Casual Riders Start and End at Tourist Hotspots – Their top routes and stations cluster around attractions like Millennium Park and the Shedd Aquarium, highlighting a preference for using cyclistic bikes for sightseeing and recreation.
+     
+   - Annual Members Commute Between Work Hubs and Transit Points – Their most-used routes connect business districts, residential zones, and universities, suggesting a practical and routine-based commuting behavior.
+
+![Average Ride Duration](avg_ride_duration.png)
 
 ## 🎯 Recommendations
+1. Target Casual Riders with Timed Membership Offers
+- Launch limited-time free or discounted trial memberships during the weekends and summer months. This leverages casual riders seasonal and leisure-driven behavior to increase exposure to the membership benefits and drive conversion.
 
+2. Reframe Annual Membership Around Exploration and Value
+- Cyclistic marketing team should create a marketing campaign that showcases top recreational destinations, and flexible usage benefits of annual membership. During the campaign, it would be best to make use of visuals and testimonials to position the membership plan as a gateway to continuous discovery, not just commuting.
 
-- Annual members demonstrate consistent, year-round usage of the bike-sharing service. Their rides are concentrated during typical commuting hours, with popular routes connecting residential areas to business districts and transportation hubs. They primarily use the service for efficient, shorter trips, as evidenced by their shorter average ride durations. Their behavior indicates a reliance on Cyclistic for daily transportation needs.
-  
-- Casual riders, in contrast, exhibit a more seasonal and leisure-oriented usage pattern. Their ridership peaks during the summer months and on weekends, with trips often originating from stations near recreational areas and tourist attractions. Casual riders take longer rides, suggesting they use the service for exploration, recreation, and longer leisure trips
-
-## 🎯 Recommendations
-- Offer a discounted or free trial annual membership, specifically targeted to casual riders during their peak usage times. This will allow casual riders to experience the benefits of membership during their preferred riding times, directly incentivizing them to convert to a full annual membership.
-  
-- Develop a marketing campaign that highlights the value of an annual membership for exploring the city. This campaign could feature curated top 10 routes, user-generated content showcasing unique city experiences, and testimonials from annual members who use Cyclistic for both commuting and leisure. This campaign would reframe the annual membership as a key to unlocking ongoing exploration and adventure, appealing directly to the casual rider's desire for discovery and making the membership relevant to their lifestyle.
-  
-- Use data to personalize incentives for casual riders to convert to annual memberships. For example, offer discounts on longer rides for a limited time, or provide a one-time credit towards a membership after a certain number of leisure rides. By tailoring the incentives to match their riding behavior, Cyclistic can make the value proposition of annual membership more compelling and relevant to individual casual riders.
+3. Use Behavioral Data to Personalize Incentives
+- Cyclistic should offer custom incentives like discounts after a set number of long-duration leisure rides or bonus credits—based on casual riders’ actual behavior. All of these tailored rewards will increase perceived relevance and nudge conversion to annual plans.
 
 ## 🧑‍💻 View SQL Codes 
 [Click here to view SQL codes](https://github.com/tos-in1/Case_Study-Cyclistic_Bike_Share/tree/master/SQL)
 
-## 📝 View the entire process 
-[Click here to view Medium Report](https://medium.com/@tosin.folorunso01/unlocking-membership-growth-converting-casual-riders-into-annual-members-1e305e2db007)
-
 ## 📊 View Presentation Slide
 [Click here to view Presentation slide](https://www.canva.com/design/DAGndjK9rVo/dqVnQuEHYucn_N_ht108oA/view?utm_content=DAGndjK9rVo&utm_campaign=share_your_design&utm_medium=link2&utm_source=shareyourdesignpanel)
+
+## 📝 View the entire process 
+[Click here to view Medium Report](https://medium.com/@tosin.folorunso01/unlocking-membership-growth-converting-casual-riders-into-annual-members-1e305e2db007)
 
 ## 📊 View Dashboard
 [Click here to view Tableau dashboard](https://public.tableau.com/views/CyclisticBikeShareDashboard_17471525247210/Dashboard1-When?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
