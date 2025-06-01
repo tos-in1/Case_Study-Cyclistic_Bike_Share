@@ -34,7 +34,7 @@ As a data analyst, my task was to analyze and understand the behavioral differen
      
    - Annual Members Ride During Commute Hours and Weekdays – They show clear peaks around 8 AM and 4–6 PM on weekdays, with consistent usage throughout the year (only 3.4x increase from winter to summer), indicating commuting and routine-based behavior.
 
-     ![Average Ride Duration](avg_ride_duration.png)
+     ![Average Ride Duration](Individual vizz/AVG_ride_duration.png)
 
 **3. What is the prefered route, start and end stations between both rider group and what does this imply?**
    - Casual Riders Start and End at Tourist Hotspots – Their top routes and stations cluster around attractions like Millennium Park and the Shedd Aquarium, highlighting a preference for using cyclistic bikes for sightseeing and recreation.
