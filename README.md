@@ -24,11 +24,14 @@ As a data analyst, my task was to analyze and understand the behavioral differen
 - `SQL/` – Contains all SQL queries used for cleaning and analysis.
 
 ## 🔍 Key Insights
-- 1: Casual Riders Take Longer Trips
-Casual riders average 19.75 mins per ride, significantly longer than annual members at 11.72 mins. This suggests casual users ride mostly for leisure, while members ride for short, practical trips.
+1. How do ride durations differ between casual riders and annual members?
+- Casual Riders Take Longer Trips compared to annual members - averaging 19.75 mins per ride, significantly longer than annual members at 11.72 mins. This suggests casual users ride mostly for leisure, while members ride for short, practical trips.
 
 ![Average Ride Duration](avg_ride_duration.png)
 
+- 2. 
+
+## 🎯 Recommendations
 
 
 - Annual members demonstrate consistent, year-round usage of the bike-sharing service. Their rides are concentrated during typical commuting hours, with popular routes connecting residential areas to business districts and transportation hubs. They primarily use the service for efficient, shorter trips, as evidenced by their shorter average ride durations. Their behavior indicates a reliance on Cyclistic for daily transportation needs.
