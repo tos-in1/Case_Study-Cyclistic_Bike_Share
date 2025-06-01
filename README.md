@@ -1,18 +1,31 @@
-# CYCLISTIC-BIKE-SHARE-ANALYSIS
+# Cyclistic Bike Share – Customer Behavior Analysis
 
-# Project Summary
-Cyclistic is a bike-share company in Chicago. The company wants to increase its annual memberships and the marketing team believes that converting casual riders into annual members is key to long-term growth.
+## Business Summary
+Cyclistic is a bike-share company in Chicago with over 6 million users across 690+ stations. Its users are categorized into two segments - Casual riders (Those who use single-ride or full-day passes) and Annual members (Those with annual subscriptions)
 
-# 🚨 The Problem 
-Cyclistic wants to grow its business and increase revenue by converting more casual riders into annual members. However, the company currently lacks insights into why casual riders aren’t making the switch to membership
+## 🚨 Business Problem 
 
-# 🎯  The Objective
-As a data analyst, my task was to analyze how casual riders and annual members differ in their riding behavior. This includes identifying patterns in ride frequency, duration, bike types used, and trip locations. By understanding the behavioral differences between these two rider groups, the marketing team can design targeted strategies to convert casual riders into loyal, paying annual members.
+Cyclistic aims to increase its overall revenue, and one of the most effective strategies is converting casual riders into annual members. However, the company currently lacks behavioral insights into why casual users are not making the switch — thereby creating a gap in its ability to develop targeted and effective conversion strategies.
 
+## 🎯 Objective
+As a data analyst, my task was to analyze and understand the behavioral differences between casual riders and annual memnbers so as to inform marketing strategies and drive membership growth. By understanding the behavioral differences between these two rider groups, the marketing team can design targeted strategies to convert casual riders into loyal, paying annual members.
 
-# 🧰 Tools Used
+## 🔍 Key Business Questions
+1. How do ride durations differ between casual riders and annual members?
+2. What time of day, days of the week, or season of the year are most popular for each rider group?
+3. What is the prefered route, start and end stations between both rider group and what does this imply?
+
+## 🧰 Tools Used
 - SQL (Google BigQuery)
 - Tableau Public
+- Canva / PowerPoint (Presentation Slide)
+
+
+
+
+
+
+
 
 ## 📁 Files
 - `SQL/` – Contains all SQL queries used for cleaning and analysis.
