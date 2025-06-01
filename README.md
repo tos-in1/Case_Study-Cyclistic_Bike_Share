@@ -27,7 +27,7 @@ As a data analyst, my task was to analyze and understand the behavioral differen
 **1. How do ride durations differ between casual riders and annual members?**
    - Casual Riders Take Longer Trips compared to annual members - averaging 19.75 mins per ride, significantly longer than annual members at 11.72 mins. This suggests casual users ride mostly for leisure, while members ride for short, practical trips.
 
-![Average Ride Duration](avg_ride_duration.png)
+![Average Ride Duration](AVG_ride_duration.png)
 
 **2. What time of day, days of the week, or season of the year are most popular for each rider group?**
    - Casual Riders Prefer to ride during weekends and Summer Months – Their usage peaks around 4–5 PM, especially on weekends, and surges dramatically in the summer (10.4x more than in winter), highlighting a strong leisure and seasonal pattern.
