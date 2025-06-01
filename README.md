@@ -1,14 +1,15 @@
 # Cyclistic Bike Share – Customer Behavior Analysis
 
 ## Business Summary
-Cyclistic is a bike-share company in Chicago with over 6 million users across 690+ stations. Its users are categorized into two segments - Casual riders (Those who use single-ride or full-day passes) and Annual members (Those with annual subscriptions)
+Cyclistic is a leading bike-share company in Chicago, serving over 6 million users across more than 690 stations. Its users fall into two segments:
+- Casual riders (single-ride or full-day pass users)
+- Annual members (subscribers with annual plans)
 
 ## 🚨 Business Problem 
-
-Cyclistic aims to increase its overall revenue, and one of the most effective strategies is converting casual riders into annual members. However, the company currently lacks behavioral insights into why casual users are not making the switch — thereby creating a gap in its ability to develop targeted and effective conversion strategies.
+Cyclistic aims to grow it's revenue by converting casual riders into annual members. However, a lack of detailed behavioral insights into casual riders limits the company’s ability to design targeted, effective conversion strategies.
 
 ## 🎯 Objective
-As a data analyst, my task was to analyze and understand the behavioral differences between casual riders and annual members so as to inform marketing strategies and drive membership growth. By understanding the behavioral differences between these two rider groups, the marketing team can design targeted strategies to convert casual riders into loyal, paying annual members.
+As a data analyst, I analyzed the behavioral differences between casual riders and annual members to inform marketing strategies aimed at increasing membership conversion and retention. Understanding these differences helps tailor communication and offers to better engage casual riders.
 
 ## 🔍 Key Business Questions
 1. How do ride durations differ between casual riders and annual members?
@@ -25,7 +26,7 @@ As a data analyst, my task was to analyze and understand the behavioral differen
 
 ## 🔍 Key Insights
 **1. How do ride durations differ between casual riders and annual members?**
-   - Casual Riders Take Longer Trips compared to annual members - averaging 19.75 mins per ride, significantly longer than annual members at 11.72 mins. This suggests casual users ride mostly for leisure, while members ride for short, practical trips.
+   - Casual riders take Longer trips compared to annual members - averaging 19.75 mins per ride, significantly longer than annual members at 11.72 mins. This suggests casual riders primarily use bikes for leisure and recreation, while annual members use them for shorter, practical trips.
 
 ![Image](https://github.com/user-attachments/assets/45da2264-74e8-49cd-ac73-9a779fbd6e5a)
 
@@ -39,7 +40,7 @@ As a data analyst, my task was to analyze and understand the behavioral differen
 
    - Casual riders prefer to ride during weekends and summer Months – Their usage peaks around 4–5 PM, especially on weekends, and surges dramatically in the summer (10.4x more than in winter), highlighting a strong leisure and seasonal pattern.
      
-   - Annual members on the other hand ride during commute hours and weekdays – They show clear peaks around 8 AM and 4–6 PM on weekdays, with consistent usage throughout the year (only 3.4x increase from winter to summer), indicating commuting and routine-based behavior.
+   - Annual members on the other hand show usage peaks during weekday commute hours (around 8 AM and 4–6 PM) and maintain relatively consistent usage year-round, with only a 3.4x increase from winter to summer. This reflects a routine commuting behavior.
 
 **3. What is the prefered route, start and end stations between both rider group and what does this imply?**
 
@@ -47,13 +48,13 @@ As a data analyst, my task was to analyze and understand the behavioral differen
 
 ![Image](https://github.com/user-attachments/assets/f3d9eaff-74e8-4951-a61b-b19fd570de2e)
 
-   - Casual Riders Start and End at Tourist Hotspots – Their top routes and stations cluster around attractions like DuSable Lake Shore, Millennium Park, Shedd Aquarium and Sreeter Dr & Grand Ave, highlighting a preference for using cyclistic bikes for sightseeing and recreation.
+   - Casual riders tend to start and end rides near tourist hotspots and recreational areas such as DuSable Lake Shore, Millennium Park, and Shedd Aquarium. This underscores their preference for sightseeing and leisure trips.
      
    - Annual Members Commute Between Work Hubs and Transit Points – Their most-used routes connect business districts, residential zones, and universities, suggesting a practical and routine-based commuting behavior.
 
 ## 🎯 Recommendations
 **1. Target Casual Riders with Timed Membership Offers**
-- Launch limited-time free or discounted trial memberships during the weekends and summer months. This leverages casual riders seasonal and leisure-driven behavior to increase exposure to the membership benefits and drive conversion.
+- Offer limited-time free or discounted trial memberships during weekends and summer months to capitalize on casual riders’ seasonal and leisure-driven usage, thereby increasing exposure to membership benefits and boosting conversions.
 
 **2. Reframe Annual Membership Around Exploration and Value**
 - Cyclistic marketing team should create a marketing campaign that showcases top recreational destinations, and flexible usage benefits of annual membership. During the campaign, it would be best to make use of visuals and testimonials to position the membership plan as a gateway to continuous discovery, not just commuting.
