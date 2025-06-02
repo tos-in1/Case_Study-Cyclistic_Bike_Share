@@ -23,6 +23,7 @@ As a data analyst, I analyzed the behavioral differences between casual riders a
 
 ## 📁 Files
 - `SQL/` – Contains all SQL queries used for cleaning and analysis.
+- `Individual vizz/` – Contains all tableau visuialization.
 
 ## 🔍 Key Insights
 **1. How do ride durations differ between casual riders and annual members?**
